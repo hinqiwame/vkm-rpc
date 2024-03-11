@@ -8,7 +8,7 @@
   <table align="center">
         <tr>
             <td><h4><a href="https://github.com/hinqiwame/vkm-rpc/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0#windows">Windows</a></h3></td>
-            <td><h4><a href="">Linux</a></h4></td>
+            <td><h4><a href="https://github.com/hinqiwame/vkm-rpc/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0#linux">Linux</a></h4></td>
         </tr>
     </table>
 </p>
