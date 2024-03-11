@@ -16,6 +16,7 @@
 ---
 
 <p align="center">
+  <img src="assets/dj.jpg">
   <img src="assets/ds.png">
 </p>
 
