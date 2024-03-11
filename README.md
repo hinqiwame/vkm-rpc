@@ -15,4 +15,7 @@
 
 ---
 Если вам понравился мой проект, вы можете поблагодарить меня по адресам следующих криптокошельков (пожалуйста)
-- BTC: 
+- BTC: `bc1qplphlvwzxrfn73q8gcltr0sd5w0yglg4krukd5`
+- ETH: `0x4FAe7A35439b89047F38bF74f38a1641F9D5c80A`
+- TRX: `TK9YrNuqbTMac2r4ZP7SpBwiamYCsuoQg6`
+- USDT (ERC20): `0x4FAe7A35439b89047F38bF74f38a1641F9D5c80A`
