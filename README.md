@@ -4,8 +4,8 @@
   <p>Проприетарное ПО позволяющее обновлять статус в Discord на основе текущего трека в VK.</p>
   <table align="center">
         <tr>
-            <td><h4><a href="">Скачать</a></h3></td>
-            <td><h4><a href="">Скриншоты</a></h4></td>
+            <td><h4><a href="">Windows</a></h3></td>
+            <td><h4><a href="">Linux</a></h4></td>
         </tr>
     </table>
 </p>
