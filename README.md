@@ -15,7 +15,7 @@
 
 ---
 <div style="text-align: center;">
-  ![Активность в Discord](assets/ds.png)
+  <img src="assets/ds.png">
 </div>
 
 ---
