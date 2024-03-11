@@ -2,5 +2,5 @@
   <img width="512" alt="VK Музыка" src="assets/icon.png">
 </p>
 
-# vkm-rpc
+# VK Music RPC
 Проприетарное ПО позволяющее обновлять статус в Discord на основе текущего трека в VK.
